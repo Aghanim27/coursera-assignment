@@ -76,12 +76,9 @@ h1 {
     }
 
     .chicken {
-        width: 20%;
-        height: 20%;
-    }
-
-    .chicken3 {
-        height: 25%;
+        width: auto;
+        height: auto;
+        padding: 10px;
     }
 
     .table3 {
